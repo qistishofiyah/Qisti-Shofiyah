@@ -1,0 +1,6 @@
+{
+  "name": "Monitoring Respons Krisis Air",
+  "description": "Sistem pemantauan respons dan waktu tanggap wilayah krisis air secara real-time.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
