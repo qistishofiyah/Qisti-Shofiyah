@@ -80,8 +80,8 @@ export default function Sidebar({
               <Droplets className="w-5 h-5 text-white animate-pulse" />
             </div>
             <div>
-              <h1 className="font-bold text-slate-100 text-[14px] leading-tight tracking-tight uppercase">MONITORING</h1>
-              <span className="text-[11px] font-medium text-blue-400 tracking-wide font-mono block">RESPONS AIR-99</span>
+              <h1 className="font-bold text-slate-100 text-[15px] leading-tight tracking-tight uppercase">AirSiaga</h1>
+              <span className="text-[10px] font-medium text-blue-400 tracking-wide font-mono block">SISTEM MONITORING</span>
             </div>
           </div>
           

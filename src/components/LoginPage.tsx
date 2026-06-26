@@ -64,7 +64,7 @@ export default function LoginPage({ users, onLogin }: LoginPageProps) {
               <div className="w-10 h-10 rounded-xl bg-blue-500/20 flex items-center justify-center border border-blue-400/30 shadow-lg shadow-blue-500/10">
                 <Droplets className="w-6 h-6 text-blue-400 animate-bounce" />
               </div>
-              <span className="font-bold tracking-wider text-sm text-blue-400">PRESISI AIR-99</span>
+              <span className="font-bold tracking-wider text-sm text-blue-400">AirSiaga</span>
             </div>
 
             <h1 className="text-2xl font-bold tracking-tight bg-gradient-to-r from-blue-100 to-cyan-300 bg-clip-text text-transparent mt-12">
